@@ -1,0 +1,19 @@
+{
+    "tenant_ids": [
+        {
+            "alias": "Tenant1",
+            "tenant_id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+            "cookie": ""
+        },
+        {
+            "alias": "Tenant2",
+            "tenant_id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+            "cookie": ""
+        },
+        {
+            "alias": "Tenant3",
+            "tenant_id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+            "cookie": ""
+        }
+    ]
+}
